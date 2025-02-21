@@ -1,2 +1,3 @@
 # curriculum
- curriculum aula glauco
+Curriculum simples
+
