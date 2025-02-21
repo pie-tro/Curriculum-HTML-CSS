@@ -1,8 +1,22 @@
-p.interpessoais{
-  margin: auto;
+p.subtexto{
+  margin-left: 15px;
   text-align: justify;
 }
 p{
   margin: auto ;
   text-align: justify;
+}
+body{
+  margin-left: 15px;
+}
+h3{
+  margin-left: 15px;
+}
+a{
+  margin-left: 15px;
+  text-decoration: none;
+  color: mediumpurple;
+}
+h1{
+  text-decoration: underline;
 }
